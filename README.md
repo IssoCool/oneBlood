@@ -13,5 +13,5 @@
    2.使用的Mysql的数据库   
    3. Tomcat作用应用服务器   
    4. Dao层采用Mybatis，Controller层采用SpringMVC，Spring对Mybatis和SpringMVC进行整合和事务管理    
-   5.前端使用Bootstrap风格框架    
+   5.前端使用Bootstrap风格框架          
    6.使用 MybatisGenerator逆向工程插件
