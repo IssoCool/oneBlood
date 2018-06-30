@@ -14,6 +14,7 @@
 7.启动tomcat              
 8.输入路径http://localhost:8080/my_ssm              
 
+#jdk为1.8
 
 实现功能
 ---
