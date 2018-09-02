@@ -1,7 +1,7 @@
 模仿天猫商城
 ====
-效果预览前台：http://47.96.230.228:8080/my_ssm/forehome
-        后台：http://47.96.230.228:8080/my_ssm/admin_category_list
+效果预览前台：http://47.104.240.219:8080/my_ssm/forehome
+        后台：http://47.104.240.219:8080/my_ssm/admin_category_list
         
 如何使用
 ---
